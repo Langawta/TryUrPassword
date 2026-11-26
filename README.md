@@ -1,7 +1,6 @@
-==================================================
+
 TryUrPassword
 Aplikasi Edukasi Keamanan Password
-==================================================
 
 Dibuat oleh : [Langawta]
 KELAS : [XII]
